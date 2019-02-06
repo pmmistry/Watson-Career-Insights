@@ -12,6 +12,8 @@
 
 3. Edit the `manifest.yml` file and change `<application-name>` to something unique. The name you use determines the URL of your application. For example, `<application-name>.mybluemix.net`.
 
+Pooja Mistry
+
   ```yaml
   applications:
   - services:
